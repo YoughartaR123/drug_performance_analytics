@@ -89,7 +89,7 @@ Developed by Yougharta Reghis
 
 ```bash
 1. Clone the repository:
-git clone https://github.com/yourusername/pharmastat.git
+git clone  https://github.com/YoughartaR123/drug_performance_analytics.git
 cd pharmastat
 
 2. Create and activate a virtual environment (recommended):
@@ -100,5 +100,5 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 
 4. Run the Streamlit app:
-streamlit run app.py
+streamlit run drug_affect.py
 
