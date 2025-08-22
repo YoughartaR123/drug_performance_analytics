@@ -5,6 +5,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-Statistical%20Analysis-8CAAE6?style=for-the-badge&logo=scipy)
 
 A Streamlit-powered statistical tool for analyzing simulated clinical trial data to evaluate drug treatment efficacy.
+if you want to see a live simulation , check this link https://drug-performance-analytics.streamlit.app/
 
 
 
